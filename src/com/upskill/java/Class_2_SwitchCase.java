@@ -1,5 +1,7 @@
 package com.upskill.java;
 
+//Test for Git
+
 public class Class_2_SwitchCase {
 
 	public static void main(String[] args) {
